@@ -1,6 +1,6 @@
-# 📘 **Prediksi Emisi Tambang Menggunakan Stacking Ensemble**
+# **Prediksi Emisi Tambang Menggunakan Stacking Ensemble**
 
-## 📌 **1. Latar Belakang Project**
+## **1. Latar Belakang Project**
 Industri pertambangan merupakan salah satu sektor dengan kontribusi emisi gas rumah kaca yang cukup besar. Dengan meningkatnya tuntutan terhadap pengurangan emisi dan kebutuhan pelaporan yang akurat, perusahaan tambang membutuhkan **model prediksi emisi CO₂e yang akurat, stabil, dan dapat diandalkan untuk data nyata (real-world data)**.
 
 Dataset emisi tambang biasanya terdiri dari:
